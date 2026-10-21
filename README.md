@@ -31,6 +31,13 @@ Install dependencies:
 ```bash
 python -m pip install -r requirements.txt
 ```
+To run 
+Output image generation
+python generate_outputs.py
+
+App start
+streamlit run app.py
+
 
 # ImageEnhancement
 
